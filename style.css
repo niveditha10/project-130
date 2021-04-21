@@ -1,0 +1,45 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    width:1000%;
+    margin:0px;
+    font-size:30px;
+}
+
+.note{
+    font-size:16px;
+    color:black;
+    
+}
+
+.img{
+    width:150px;
+    border-radius: 200px;
+    margin-top:50px;
+}
+
+.div_speed{
+    float:left;
+}
+
+.div_volume{
+    float:right;
+}
+#song{
+    font-size:23px;
+    margin:15px;
+    color:peru;
+    border-radius: 20px;
+    background-color:plum;
+   width:10%;
+   height:32px;
+   text-align:center;
+   margin-top:50px;
+   font-variant:small-caps;
+}
+canvas{
+    border-radius: 20px;
+    border:3px white solid;
+}
